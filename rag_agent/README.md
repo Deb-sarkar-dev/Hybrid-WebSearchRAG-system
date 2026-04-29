@@ -44,8 +44,6 @@ The system intelligently decides when local knowledge is sufficient and when ext
 
 ## System Architecture
 
-## Hybrid RAG System Architecture
-
 User Query
    ↓
 [LangGraph Agent]
